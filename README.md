@@ -1,6 +1,6 @@
 - 👋 Hi, myself Sundar and I am a Practicing Engineer
-- 👀 I build Embedded Systems using C & C++. I build Software using C, C++, Java and Python
-- 🌱 I’m an AI researcher too.
+- 👀 My love - Electronics and Software I build Embedded Systems and Software using C, C++, Java and Python
+- 🌱 I research in Abstract Algebra
 - 📫 How to reach me ... bsundar26@gmail.com
 
 <!---
